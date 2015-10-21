@@ -6,5 +6,9 @@
   {
     "outputFile": "ContactStyle.css",
     "inputFile": "ContactStyle.scss"
+  },
+  {
+    "outputFile": "MultipleFiles.css",
+    "inputFile": "MultipleFiles.scss"
   }
 ]

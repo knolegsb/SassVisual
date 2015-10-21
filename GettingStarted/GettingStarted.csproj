@@ -65,12 +65,22 @@
     <Content Include="ContactStyle.min.css">
       <DependentUpon>ContactStyle.css</DependentUpon>
     </Content>
+    <Content Include="MultipleFiles.css">
+      <DependentUpon>MultipleFiles.scss</DependentUpon>
+    </Content>
+    <Content Include="MultipleFiles.html" />
+    <Content Include="MultipleFiles.min.css">
+      <DependentUpon>MultipleFiles.css</DependentUpon>
+    </Content>
     <Content Include="StyleSheet1.scss" />
     <None Include="compilerconfig.json" />
     <Content Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
     </Content>
     <Content Include="ContactStyle.scss" />
+    <Content Include="MultipleFiles.scss" />
+    <Content Include="MultipleCSS\_mixins.scss" />
+    <Content Include="MultipleCSS\_variables.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -91,6 +101,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
