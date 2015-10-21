@@ -18,5 +18,13 @@
   {
     "outputFile": "Inheritance/chaining.css",
     "inputFile": "Inheritance/chaining.scss"
+  },
+  {
+    "outputFile": "Content/Site.css",
+    "inputFile": "Content/Site.scss"
+  },
+  {
+    "outputFile": "Content/bootstrap.css",
+    "inputFile": "Content/bootstrap.scss"
   }
 ]
