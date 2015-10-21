@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "file": "StyleSheet1.css",
+  "sources": ["StyleSheet1.scss"],
+  "names": [],
+  "mappings": "AA0BA,AACI,AArBa,AAwBjB,AACI,AA9BiB,AAiCrB,AACI,AAlCiB,AAmCjB,AAAa,AACb,AAAY,AAGhB,AA3BI,AANa,AAOb,AALW,AAMX,AALa,AAMb,AAZe,AAaf,AAfqB,AAkBrB,AA2B8B,AA1B9B,AA0B8B,AAxB9B,AAwB8B,AAGlC,AArCI,AANa,AAOb,AALW,AAMX,AALa,AAMb,AAZe,AAaf,AAdqB,AAiBrB,AAqC8B,AApC9B,AAoC8B,AAlC9B,AAkC8B"
+}

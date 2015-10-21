@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "StyleSheet1.css",
+    "inputFile": "StyleSheet1.scss"
+  },
+  {
+    "outputFile": "ContactStyle.css",
+    "inputFile": "ContactStyle.scss"
+  }
+]

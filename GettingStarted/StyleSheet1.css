@@ -1,0 +1,43 @@
+﻿body {
+  font-size: 16pt; }
+
+h1 {
+  color: #0072ff; }
+
+.lead-text {
+  color: #0072ff;
+  font-weight: bold;
+  font-style: italic; }
+
+.primary-button {
+  font-size: 30pt;
+  width: 200px;
+  padding: 10px 30px 10px 20px;
+  color: white;
+  background-color: #ff6500;
+  /*color: $button-text-color;*/
+  /*background-color: $important-action-color;*/
+  /*font-size: $buttonFontSize;
+    width: $button-width;
+    padding: $button-padding;*/
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  /*-ms-border-radius: $radius;*/
+  border-radius: 20px; }
+
+.secondary-button {
+  font-size: 30pt;
+  width: 200px;
+  padding: 10px 30px 10px 20px;
+  color: white;
+  background-color: #808080;
+  /*color: $button-text-color;
+    background-color: $secondary-action-color;
+    font-size: $buttonFontSize;
+    width: $button-width;*/
+  /*padding: $button-padding;*/
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  /*-ms-border-radius: $radius;*/
+  border-radius: 20px; }
+
