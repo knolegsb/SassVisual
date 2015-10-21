@@ -10,5 +10,13 @@
   {
     "outputFile": "MultipleFiles.css",
     "inputFile": "MultipleFiles.scss"
+  },
+  {
+    "outputFile": "Inheritance/inheritance.css",
+    "inputFile": "Inheritance/inheritance.scss"
+  },
+  {
+    "outputFile": "Inheritance/chaining.css",
+    "inputFile": "Inheritance/chaining.scss"
   }
 ]
